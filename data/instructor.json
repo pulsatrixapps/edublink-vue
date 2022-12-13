@@ -1,0 +1,259 @@
+{
+    "instructors": [
+        {
+            "imgSrc": "team-01.jpg",
+            "name": "Jane Seymour",
+            "designation": "UI Designer",
+            "excerpt": "Consectetur adipisicing elit, sed do eius mod tempor incididunt",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "iconName": "icon-facebook",
+                    "url": "https://www.facebook.com"
+                },
+                {
+                    "name": "Twitter",
+                    "iconName": "icon-twitter",
+                    "url": "https://www.twitter.com"
+                },
+                {
+                    "name": "LinkedIn",
+                    "iconName": "icon-linkedin2",
+                    "url": "https://www.linkedin.com"
+                }
+            ]
+        },
+        {
+            "imgSrc": "team-02.jpg",
+            "name": "Edward Norton",
+            "designation": "Web Developer",
+            "excerpt": "Consectetur adipisicing elit, sed do eius mod tempor incididunt",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "iconName": "icon-facebook",
+                    "url": "https://www.facebook.com"
+                },
+                {
+                    "name": "Twitter",
+                    "iconName": "icon-twitter",
+                    "url": "https://www.twitter.com"
+                },
+                {
+                    "name": "LinkedIn",
+                    "iconName": "icon-linkedin2",
+                    "url": "https://www.linkedin.com"
+                }
+            ]
+        },
+        {
+            "imgSrc": "team-03.jpg",
+            "name": "Penelope Cruz",
+            "designation": "Digital Marketer",
+            "excerpt": "Consectetur adipisicing elit, sed do eius mod tempor incididunt",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "iconName": "icon-facebook",
+                    "url": "https://www.facebook.com"
+                },
+                {
+                    "name": "Twitter",
+                    "iconName": "icon-twitter",
+                    "url": "https://www.twitter.com"
+                },
+                {
+                    "name": "LinkedIn",
+                    "iconName": "icon-linkedin2",
+                    "url": "https://www.linkedin.com"
+                }
+            ]
+        },
+        {
+            "imgSrc": "team-04.jpg",
+            "name": "John Travolta",
+            "designation": "WordPress Expert",
+            "excerpt": "Consectetur adipisicing elit, sed do eius mod tempor incididunt",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "iconName": "icon-facebook",
+                    "url": "https://www.facebook.com"
+                },
+                {
+                    "name": "Twitter",
+                    "iconName": "icon-twitter",
+                    "url": "https://www.twitter.com"
+                },
+                {
+                    "name": "LinkedIn",
+                    "iconName": "icon-linkedin2",
+                    "url": "https://www.linkedin.com"
+                }
+            ]
+        },
+        {
+            "imgSrc": "team-05.jpg",
+            "name": "Hilary Swank",
+            "designation": "Laravel Expert",
+            "excerpt": "Consectetur adipisicing elit, sed do eius mod tempor incididunt",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "iconName": "icon-facebook",
+                    "url": "https://www.facebook.com"
+                },
+                {
+                    "name": "Twitter",
+                    "iconName": "icon-twitter",
+                    "url": "https://www.twitter.com"
+                },
+                {
+                    "name": "LinkedIn",
+                    "iconName": "icon-linkedin2",
+                    "url": "https://www.linkedin.com"
+                }
+            ]
+        },
+        {
+            "imgSrc": "team-06.jpg",
+            "name": "Steve Martin",
+            "designation": "App Developer",
+            "excerpt": "Consectetur adipisicing elit, sed do eius mod tempor incididunt",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "iconName": "icon-facebook",
+                    "url": "https://www.facebook.com"
+                },
+                {
+                    "name": "Twitter",
+                    "iconName": "icon-twitter",
+                    "url": "https://www.twitter.com"
+                },
+                {
+                    "name": "LinkedIn",
+                    "iconName": "icon-linkedin2",
+                    "url": "https://www.linkedin.com"
+                }
+            ]
+        },
+        {
+            "imgSrc": "team-07.jpg",
+            "name": "Louis Vargas",
+            "designation": "WordPress Expert",
+            "excerpt": "Consectetur adipisicing elit, sed do eius mod tempor incididunt",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "iconName": "icon-facebook",
+                    "url": "https://www.facebook.com"
+                },
+                {
+                    "name": "Twitter",
+                    "iconName": "icon-twitter",
+                    "url": "https://www.twitter.com"
+                },
+                {
+                    "name": "LinkedIn",
+                    "iconName": "icon-linkedin2",
+                    "url": "https://www.linkedin.com"
+                }
+            ]
+        },
+        {
+            "imgSrc": "team-08.jpg",
+            "name": "Tamara Wilson",
+            "designation": "Affiliate Markeer",
+            "excerpt": "Consectetur adipisicing elit, sed do eius mod tempor incididunt",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "iconName": "icon-facebook",
+                    "url": "https://www.facebook.com"
+                },
+                {
+                    "name": "Twitter",
+                    "iconName": "icon-twitter",
+                    "url": "https://www.twitter.com"
+                },
+                {
+                    "name": "LinkedIn",
+                    "iconName": "icon-linkedin2",
+                    "url": "https://www.linkedin.com"
+                }
+            ]
+        }
+    ],
+    "yogaInstructors": [
+        {
+            "imgSrc": "team-01.jpg",
+            "name": "Jane Seymour",
+            "designation": "Yoga Trainer",
+            "excerpt": "Consectetur adipisicing elit, sed do eius mod tempor incididunt",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "iconName": "icon-facebook",
+                    "url": "https://www.facebook.com"
+                },
+                {
+                    "name": "Twitter",
+                    "iconName": "icon-twitter",
+                    "url": "https://www.twitter.com"
+                },
+                {
+                    "name": "LinkedIn",
+                    "iconName": "icon-linkedin2",
+                    "url": "https://www.linkedin.com"
+                }
+            ]
+        },
+        {
+            "imgSrc": "team-02.jpg",
+            "name": "Edward Norton",
+            "designation": "Yoga Trainer",
+            "excerpt": "Consectetur adipisicing elit, sed do eius mod tempor incididunt",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "iconName": "icon-facebook",
+                    "url": "https://www.facebook.com"
+                },
+                {
+                    "name": "Twitter",
+                    "iconName": "icon-twitter",
+                    "url": "https://www.twitter.com"
+                },
+                {
+                    "name": "LinkedIn",
+                    "iconName": "icon-linkedin2",
+                    "url": "https://www.linkedin.com"
+                }
+            ]
+        },
+        {
+            "imgSrc": "team-03.jpg",
+            "name": "Penelope Cruz",
+            "designation": "Yoga Trainer",
+            "excerpt": "Consectetur adipisicing elit, sed do eius mod tempor incididunt",
+            "socialLinks": [
+                {
+                    "name": "Facebook",
+                    "iconName": "icon-facebook",
+                    "url": "https://www.facebook.com"
+                },
+                {
+                    "name": "Twitter",
+                    "iconName": "icon-twitter",
+                    "url": "https://www.twitter.com"
+                },
+                {
+                    "name": "LinkedIn",
+                    "iconName": "icon-linkedin2",
+                    "url": "https://www.linkedin.com"
+                }
+            ]
+        }
+    ]
+}

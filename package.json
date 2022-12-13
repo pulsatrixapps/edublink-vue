@@ -1,0 +1,36 @@
+{
+    "name": "edublink",
+    "version": "1.0.0",
+    "author": "DevsBlink",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@nuxtjs/style-resources": "^1.2.1",
+        "aos": "^2.3.4",
+        "core-js": "^3.18.2",
+        "emailjs-com": "^3.2.0",
+        "nuxt": "^2.15.8",
+        "parallax-js": "^3.1.0",
+        "rellax": "^1.12.1",
+        "swiper": "^5.4.5",
+        "vue-awesome-swiper": "^4.1.1",
+        "vue-cool-lightbox": "^2.7.5",
+        "vue-count-to": "^1.0.13",
+        "vue-inline-svg": "^2.0.0",
+        "vue-masonry-css": "^1.0.3",
+        "vue-observe-visibility": "^1.0.0",
+        "vue-pagination-2": "^3.1.0",
+        "vue2-google-maps": "^0.10.7"
+    },
+    "devDependencies": {
+        "@nuxtjs/color-mode": "^2.1.1",
+        "sass": "^1.42.1",
+        "sass-loader": "^10.2.0",
+        "webpack": "^4.46.0"
+    }
+}

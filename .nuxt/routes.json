@@ -1,0 +1,324 @@
+[
+  {
+    "name": "about-us-one",
+    "path": "/about-us-one",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/about-us-one.vue",
+    "chunkName": "pages/about-us-one",
+    "_name": "_09cd17ee"
+  },
+  {
+    "name": "about-us-three",
+    "path": "/about-us-three",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/about-us-three.vue",
+    "chunkName": "pages/about-us-three",
+    "_name": "_1d17b881"
+  },
+  {
+    "name": "about-us-two",
+    "path": "/about-us-two",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/about-us-two.vue",
+    "chunkName": "pages/about-us-two",
+    "_name": "_138124ef"
+  },
+  {
+    "name": "coming-soon",
+    "path": "/coming-soon",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/coming-soon.vue",
+    "chunkName": "pages/coming-soon",
+    "_name": "_84794eb6"
+  },
+  {
+    "name": "contact-me",
+    "path": "/contact-me",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/contact-me.vue",
+    "chunkName": "pages/contact-me",
+    "_name": "_5513de12"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_383bc206"
+  },
+  {
+    "name": "distant-learning",
+    "path": "/distant-learning",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/distant-learning.vue",
+    "chunkName": "pages/distant-learning",
+    "_name": "_a9044d08"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_521a8518"
+  },
+  {
+    "name": "gallery-grid",
+    "path": "/gallery-grid",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/gallery-grid.vue",
+    "chunkName": "pages/gallery-grid",
+    "_name": "_137fd21a"
+  },
+  {
+    "name": "gallery-masonry",
+    "path": "/gallery-masonry",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/gallery-masonry.vue",
+    "chunkName": "pages/gallery-masonry",
+    "_name": "_24e02628"
+  },
+  {
+    "name": "kindergarten",
+    "path": "/kindergarten",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/kindergarten.vue",
+    "chunkName": "pages/kindergarten",
+    "_name": "_65f5c458"
+  },
+  {
+    "name": "kitchen-coach",
+    "path": "/kitchen-coach",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/kitchen-coach.vue",
+    "chunkName": "pages/kitchen-coach",
+    "_name": "_5ba5dae2"
+  },
+  {
+    "name": "landing-demo",
+    "path": "/landing-demo",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/landing-demo.vue",
+    "chunkName": "pages/landing-demo",
+    "_name": "_6be07deb"
+  },
+  {
+    "name": "my-account",
+    "path": "/my-account",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/my-account.vue",
+    "chunkName": "pages/my-account",
+    "_name": "_86c053c4"
+  },
+  {
+    "name": "online-academy",
+    "path": "/online-academy",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/online-academy.vue",
+    "chunkName": "pages/online-academy",
+    "_name": "_4f6a0c84"
+  },
+  {
+    "name": "pricing-table",
+    "path": "/pricing-table",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/pricing-table.vue",
+    "chunkName": "pages/pricing-table",
+    "_name": "_07051565"
+  },
+  {
+    "name": "privacy-policy",
+    "path": "/privacy-policy",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/privacy-policy.vue",
+    "chunkName": "pages/privacy-policy",
+    "_name": "_7c1c5fa9"
+  },
+  {
+    "name": "purchase-guide",
+    "path": "/purchase-guide",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/purchase-guide.vue",
+    "chunkName": "pages/purchase-guide",
+    "_name": "_7b031742"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/shop/index.vue",
+    "chunkName": "pages/shop/index",
+    "_name": "_7298fdea"
+  },
+  {
+    "name": "terms-condition",
+    "path": "/terms-condition",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/terms-condition.vue",
+    "chunkName": "pages/terms-condition",
+    "_name": "_d73fc39a"
+  },
+  {
+    "name": "university",
+    "path": "/university",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/university.vue",
+    "chunkName": "pages/university",
+    "_name": "_582520a0"
+  },
+  {
+    "name": "yoga-instructor",
+    "path": "/yoga-instructor",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/yoga-instructor.vue",
+    "chunkName": "pages/yoga-instructor",
+    "_name": "_25667f78"
+  },
+  {
+    "name": "blog-blog-details",
+    "path": "/blog/blog-details",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/blog/blog-details.vue",
+    "chunkName": "pages/blog/blog-details",
+    "_name": "_f408757c"
+  },
+  {
+    "name": "blog-blog-list",
+    "path": "/blog/blog-list",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/blog/blog-list.vue",
+    "chunkName": "pages/blog/blog-list",
+    "_name": "_1ba08bce"
+  },
+  {
+    "name": "blog-blog-masonry",
+    "path": "/blog/blog-masonry",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/blog/blog-masonry.vue",
+    "chunkName": "pages/blog/blog-masonry",
+    "_name": "_1dfd17c5"
+  },
+  {
+    "name": "blog-blog-standard",
+    "path": "/blog/blog-standard",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/blog/blog-standard.vue",
+    "chunkName": "pages/blog/blog-standard",
+    "_name": "_ffa97326"
+  },
+  {
+    "name": "course-course-details",
+    "path": "/course/course-details",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/course/course-details.vue",
+    "chunkName": "pages/course/course-details",
+    "_name": "_629118e2"
+  },
+  {
+    "name": "course-course-details-2",
+    "path": "/course/course-details-2",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/course/course-details-2.vue",
+    "chunkName": "pages/course/course-details-2",
+    "_name": "_05c94cf2"
+  },
+  {
+    "name": "course-course-details-3",
+    "path": "/course/course-details-3",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/course/course-details-3.vue",
+    "chunkName": "pages/course/course-details-3",
+    "_name": "_05ad1df0"
+  },
+  {
+    "name": "course-course-five",
+    "path": "/course/course-five",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/course/course-five.vue",
+    "chunkName": "pages/course/course-five",
+    "_name": "_57ce0f7c"
+  },
+  {
+    "name": "course-course-four",
+    "path": "/course/course-four",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/course/course-four.vue",
+    "chunkName": "pages/course/course-four",
+    "_name": "_1080b4b6"
+  },
+  {
+    "name": "course-course-one",
+    "path": "/course/course-one",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/course/course-one.vue",
+    "chunkName": "pages/course/course-one",
+    "_name": "_34c2e706"
+  },
+  {
+    "name": "course-course-three",
+    "path": "/course/course-three",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/course/course-three.vue",
+    "chunkName": "pages/course/course-three",
+    "_name": "_db9f3f84"
+  },
+  {
+    "name": "course-course-two",
+    "path": "/course/course-two",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/course/course-two.vue",
+    "chunkName": "pages/course/course-two",
+    "_name": "_4d2a97ec"
+  },
+  {
+    "name": "event-event-details",
+    "path": "/event/event-details",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/event/event-details.vue",
+    "chunkName": "pages/event/event-details",
+    "_name": "_67b5d890"
+  },
+  {
+    "name": "event-event-grid",
+    "path": "/event/event-grid",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/event/event-grid.vue",
+    "chunkName": "pages/event/event-grid",
+    "_name": "_131df080"
+  },
+  {
+    "name": "event-event-list",
+    "path": "/event/event-list",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/event/event-list.vue",
+    "chunkName": "pages/event/event-list",
+    "_name": "_33b0c118"
+  },
+  {
+    "name": "instructor-instructor-one",
+    "path": "/instructor/instructor-one",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/instructor/instructor-one.vue",
+    "chunkName": "pages/instructor/instructor-one",
+    "_name": "_0da121c6"
+  },
+  {
+    "name": "instructor-instructor-profile",
+    "path": "/instructor/instructor-profile",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/instructor/instructor-profile.vue",
+    "chunkName": "pages/instructor/instructor-profile",
+    "_name": "_5c117f89"
+  },
+  {
+    "name": "instructor-instructor-three",
+    "path": "/instructor/instructor-three",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/instructor/instructor-three.vue",
+    "chunkName": "pages/instructor/instructor-three",
+    "_name": "_a72a2a04"
+  },
+  {
+    "name": "instructor-instructor-two",
+    "path": "/instructor/instructor-two",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/instructor/instructor-two.vue",
+    "chunkName": "pages/instructor/instructor-two",
+    "_name": "_2608d2ac"
+  },
+  {
+    "name": "shop-cart",
+    "path": "/shop/cart",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/shop/cart.vue",
+    "chunkName": "pages/shop/cart",
+    "_name": "_10753212"
+  },
+  {
+    "name": "shop-checkout",
+    "path": "/shop/checkout",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/shop/checkout.vue",
+    "chunkName": "pages/shop/checkout",
+    "_name": "_597bfe9d"
+  },
+  {
+    "name": "shop-product-details",
+    "path": "/shop/product-details",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/shop/product-details.vue",
+    "chunkName": "pages/shop/product-details",
+    "_name": "_b5222546"
+  },
+  {
+    "name": "shop-wishlist",
+    "path": "/shop/wishlist",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/shop/wishlist.vue",
+    "chunkName": "pages/shop/wishlist",
+    "_name": "_1ea3e0c8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/rayannelima/Desktop/Pulsatrix/Edublink - Vue/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_d2c8f8a0"
+  }
+]

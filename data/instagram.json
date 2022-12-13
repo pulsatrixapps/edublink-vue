@@ -1,0 +1,66 @@
+{
+    "kitchenPosts": [
+        {
+            "imgSrc": "/images/instagram/instagram-01.jpg",
+            "title": "@EduBlink.Cooking",
+            "imgAlt": "Kitchen Instagram"
+        },
+        {
+            "imgSrc": "/images/instagram/instagram-02.jpg",
+            "title": "@EduBlink.Cooking",
+            "imgAlt": "Kitchen Instagram"
+        },
+        {
+            "imgSrc": "/images/instagram/instagram-03.jpg",
+            "title": "@EduBlink.Cooking",
+            "imgAlt": "Kitchen Instagram"
+        },
+        {
+            "imgSrc": "/images/instagram/instagram-04.jpg",
+            "title": "@EduBlink.Cooking",
+            "imgAlt": "Kitchen Instagram"
+        },
+        {
+            "imgSrc": "/images/instagram/instagram-05.jpg",
+            "title": "@EduBlink.Cooking",
+            "imgAlt": "Kitchen Instagram"
+        },
+        {
+            "imgSrc": "/images/instagram/instagram-06.jpg",
+            "title": "@EduBlink.Cooking",
+            "imgAlt": "Kitchen Instagram"
+        }
+    ],
+    "yogaPosts": [
+        {
+            "imgSrc": "/images/instagram/instagram-07.jpg",
+            "title": "@EduBlink.Yoga",
+            "imgAlt": "Yoga Instagram"
+        },
+        {
+            "imgSrc": "/images/instagram/instagram-08.jpg",
+            "title": "@EduBlink.Yoga",
+            "imgAlt": "Yoga Instagram"
+        },
+        {
+            "imgSrc": "/images/instagram/instagram-09.jpg",
+            "title": "@EduBlink.Yoga",
+            "imgAlt": "Yoga Instagram"
+        },
+        {
+            "imgSrc": "/images/instagram/instagram-10.jpg",
+            "title": "@EduBlink.Yoga",
+            "imgAlt": "Yoga Instagram"
+        },
+        {
+            "imgSrc": "/images/instagram/instagram-11.jpg",
+            "title": "@EduBlink.Yoga",
+            "imgAlt": "Yoga Instagram"
+        },
+        {
+            "imgSrc": "/images/instagram/instagram-12.jpg",
+            "title": "@EduBlink.Yoga",
+            "imgAlt": "Yoga Instagram"
+        }
+    ]
+}
