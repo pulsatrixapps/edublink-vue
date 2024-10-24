@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/gallery-masonry", {data:[{}],fetch:{},mutations:void 0});

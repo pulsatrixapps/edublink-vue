@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/instructor/instructor-two", {data:[{}],fetch:{},mutations:void 0});

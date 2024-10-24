@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/online-academy", {data:[{}],fetch:{},mutations:void 0});
