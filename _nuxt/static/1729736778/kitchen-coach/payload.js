@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kitchen-coach", {data:[{}],fetch:{},mutations:void 0});

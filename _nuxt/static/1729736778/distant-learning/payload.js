@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/distant-learning", {data:[{}],fetch:{},mutations:void 0});

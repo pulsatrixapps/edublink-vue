@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kindergarten", {data:[{}],fetch:{},mutations:void 0});

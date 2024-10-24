@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/yoga-instructor", {data:[{}],fetch:{},mutations:void 0});
