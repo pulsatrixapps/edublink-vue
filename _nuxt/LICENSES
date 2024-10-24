@@ -39,6 +39,13 @@ and limitations under the License.
 ***************************************************************************** */
 
 
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+
 /*!
   * vue-router v3.5.4
   * (c) 2022 Evan You
@@ -50,10 +57,3 @@ and limitations under the License.
  * (c) 2014-2022 Evan You
  * Released under the MIT License.
  */
-
-
-/*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
