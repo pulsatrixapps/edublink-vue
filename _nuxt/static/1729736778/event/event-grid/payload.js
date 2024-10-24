@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/event/event-grid", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/landing-demo", {data:[{}],fetch:{},mutations:void 0});
